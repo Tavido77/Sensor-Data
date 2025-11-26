@@ -1,0 +1,11 @@
+
+TEMPERATURE-HUMIDITY RELATIONSHIP ANALYSIS
+============================================================
+Overall Correlation:        0.0037
+Relationship Type:          Direct
+Linear Regression:
+  Slope:                    0.014617
+  Intercept:                49.6973
+  R-squared:                0.0000
+  P-value:                  0.203618
+  Statistical Significance: No (α=0.05)

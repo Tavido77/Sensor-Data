@@ -1,0 +1,7 @@
+
+DAY-NIGHT LIGHT CYCLE ANALYSIS
+============================================================
+Average Light (Daytime 6am-6pm):    548.69
+Average Light (Nighttime 6pm-6am):  549.52
+Day-Night Difference:               -0.83
+Ratio (Day/Night):                  1.00x
